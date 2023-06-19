@@ -1,4 +1,6 @@
-# title
+# The BEST way to start EDA - from a data science prof
+
+I will walk you through the five essential steps I take to start exploratory data analysis in any data science project. I’ve been working as a data scientist since 2015 and became an instructor at Brown University in 2021. I have worked on over 20 machine learning projects personally and teach data science to roughly 50 graduate students each year. I understand that starting a new data science project can be overwhelming. Whether you've received little direction from your boss or you're unsure where to begin in the sea of summary statistics and potential figures, it's natural to feel daunted but I’m here to help!
 
 ## Prerequistes
 
