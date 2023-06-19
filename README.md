@@ -14,7 +14,7 @@ You should be able to run EDA.ipynb now.
 
 ## Author
 
-Andras Zsom (TBD)
+Andras Zsom (ds.cross.validated@gmail.com)
 
 ## License
 
